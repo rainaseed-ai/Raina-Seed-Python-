@@ -1,4 +1,5 @@
 ## Raina’s SEED – Basic Edition (Python Version)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21191268.svg)](https://doi.org/10.5281/zenodo.21191268)
 ### Name Setting × AI Reply Template × Auto‑Summary × Turn Control 
 ### × Fatigue PreventionA tiny “seed” to grow your own personal AI.
 
